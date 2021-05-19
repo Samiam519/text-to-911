@@ -10,6 +10,7 @@
   "dependencies": {
     "buefy": "^0.9.7",
     "core-js": "^3.6.5",
+    "travis": "^0.1.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
