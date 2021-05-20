@@ -1,0 +1,7 @@
+# Applies to all robots
+User-agent: *
+Disallow: /js/
+Disallow: /assets/
+
+Sitemap: http://www.canitext911.com/sitemap.xml
+Sitemap: http://canitext911.com/sitemap.xml
